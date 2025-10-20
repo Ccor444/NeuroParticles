@@ -1,5 +1,6 @@
 # NeuroParticles
 https://ccor444.github.io/NeuroParticles/
+![Demo](assets/demo.gif)
 
 Fundo interativo inspirado no estilo PS2, com partículas animadas que reagem ao mouse, cliques e movimento captado pela webcam. Uma “IA cerebral” controla o humor das partículas, tornando a animação viva e dinâmica.
 
